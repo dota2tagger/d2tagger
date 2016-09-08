@@ -1,0 +1,2 @@
+version1.2
+https://github.com/dota2tagger/d2tagger/raw/gh-pages/quadrents.zip
